@@ -1,0 +1,158 @@
+/* $Id: local_sample.css,v 1.1 2010/04/08 17:16:16 danprobo Exp $ */
+
+/****************************/
+/* LOCAL CSS                */
+/****************************/
+
+/* Put your custom css and css overrides in this file and  */ 
+/* rename it local.css.  By restricting your css changes   */
+/* to local.css, your changes will not be overwritten when */
+/* upgrading to a new version of this theme.               */
+
+/* Steps to activate local.css:                       */
+/* 1. Add your custom css to this file                */
+/* 2. Rename this file to local.css                   */
+/* 3. Uncomment (remove leading semicolon from ) the  */ 
+/*    following line in your theme's .info file:      */
+/*    ;stylesheets[all][] = local.css                 */
+/* 4. Clear cached data at admin/settings/performance */
+
+/* $Id: style.css,v 1.44.2.16 2011/01/06 09:45:33 danprobo Exp $ */
+
+#authorize {
+display: none;
+}
+
+/* slideshow + Preface top + Slideshow
+-------------------------------------------------------------- */
+
+#slideshow-wrapper{
+width:100%;
+background: transparent url(images/slideshow-shadow.gif) no-repeat center bottom;
+height:270px;
+margin-bottom:-45px;
+margin-top:0px;
+}
+
+.slideshow-inner{
+width:950px;
+margin:0 auto;
+height:205px;
+position:relative;
+z-index:1;
+overflow: hidden;
+}
+
+#slideshow-preface {
+float:left;
+position:absolute;
+text-align:left;
+z-index:4;
+}
+
+.slideshow {
+width:950px;
+height:205px;
+position:relative;
+z-index:2;
+overflow: hidden;
+}
+
+a:link {
+color: #294488; /*#005a8c; #1e3265; #e87e17*/
+text-decoration: none;
+font-weight: bold;
+}
+
+a:visited {
+color: #2e8ce4; /*#005a8c; #e87e17*/
+text-decoration: none;
+font-weight: bold;
+}
+
+#mission {
+font-size:1.6em;
+color:#002054;
+display:block;
+float:right;
+line-height:1.2em;
+}
+
+#mission .contextual-links {
+font-size: 84%;
+}
+
+#mission .block-title {
+margin-top:5px;
+}
+
+#mission .region {
+margin:5px;
+}
+
+#menu {
+height: 35px;
+background:url(images/menu-bg.gif) repeat-x;
+width:952px;
+margin: 0 auto;
+}
+
+#nav {
+height: 35px;
+background:url(images/menu-bg.gif) repeat-x;
+float:left;
+}
+
+#nav li {
+float:left;
+background:url(images/menu-separator.gif) no-repeat right top;
+height:35px;
+padding:0 1px 0 0;
+}
+
+#nav li a{
+color:#fff;
+text-decoration:none;
+font-size:12px;
+padding:7px 26px 0 26px;
+display:inline-block;
+font-weight:bold;
+height:25px;
+text-transform:uppercase;
+}
+
+#nav li a:hover {
+background:transparent url(images/menu-hover-bg.gif) repeat-x;
+}
+
+#nav li.active-trail a {
+background:transparent url(images/menu-hover-bg.gif) repeat-x;
+}
+
+#rounded-menu-left {
+height: 35px;
+background:transparent url(images/menu-left-bg.gif) no-repeat;
+float:left;
+width:1px;
+line-height:0;
+font-size:0;
+}
+
+#rounded-menu-right {
+height: 35px;
+background:url(images/menu-right-bg.gif) no-repeat;
+float:right;
+width:14px;
+line-height:0;
+font-size:0;
+}
+
+.form-wrapper input {
+    -moz-box-sizing: border-box;
+}
+
+#notice {
+display: none;
+}
+
+#breadcrumb { display:none; }
