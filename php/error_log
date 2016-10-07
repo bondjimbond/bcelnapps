@@ -57,3 +57,5 @@
 [02-Sep-2016 02:01:09 America/Vancouver] PHP Notice:  Undefined index: staffemail in /home/bceln/public_html/php/swamped.php on line 8
 [02-Sep-2016 13:38:04 America/Vancouver] PHP Notice:  Use of undefined constant localhost - assumed 'localhost' in /home/bceln/public_html/php/swamped.php on line 15
 [12-Sep-2016 02:27:05 America/Vancouver] PHP Notice:  Undefined index: staffemail in /home/bceln/public_html/php/swamped.php on line 8
+[06-Oct-2016 08:39:25 America/Vancouver] PHP Notice:  Undefined index: staffemail in /home/bceln/public_html/php/swamped.php on line 8
+[06-Oct-2016 09:05:45 America/Vancouver] PHP Notice:  Undefined index: staffemail in /home/bceln/public_html/php/cancelswamped.php on line 6
