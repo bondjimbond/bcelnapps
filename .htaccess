@@ -147,3 +147,9 @@ DirectoryIndex index.php index.html index.htm
   # Disable content sniffing, since it's an attack vector.
   Header always set X-Content-Type-Options nosniff
 </IfModule>
+
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN		
+PassengerAppRoot "/home/bceln/certbot"		
+PassengerBaseURI "/"		
+PassengerPython "/home/bceln/virtualenv/certbot/2.7/bin/python2.7"		
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
