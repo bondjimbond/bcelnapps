@@ -62,3 +62,13 @@
 [11-Oct-2016 19:24:16 America/Vancouver] PHP Notice:  Undefined index: staffemail in /home/bceln/public_html/php/swamped.php on line 8
 [21-Oct-2016 05:33:30 America/Vancouver] PHP Notice:  Undefined index: staffemail in /home/bceln/public_html/php/swamped.php on line 8
 [21-Oct-2016 06:09:56 America/Vancouver] PHP Notice:  Undefined index: staffemail in /home/bceln/public_html/php/cancelswamped.php on line 6
+[03-Nov-2016 05:04:48 America/Vancouver] PHP Notice:  Undefined index: staffemail in /home/bceln/public_html/php/cancelswamped.php on line 6
+[03-Nov-2016 06:48:24 America/Vancouver] PHP Notice:  Undefined index: staffemail in /home/bceln/public_html/php/swamped.php on line 8
+[06-Nov-2016 15:27:48 America/Vancouver] PHP Notice:  Use of undefined constant localhost - assumed 'localhost' in /home/bceln/public_html/php/swamped.php on line 15
+[06-Nov-2016 15:28:50 America/Vancouver] PHP Notice:  Use of undefined constant localhost - assumed 'localhost' in /home/bceln/public_html/php/swamped.php on line 15
+[06-Nov-2016 15:38:44 America/Vancouver] PHP Notice:  Use of undefined constant localhost - assumed 'localhost' in /home/bceln/public_html/php/cancelswamped.php on line 14
+[06-Nov-2016 15:43:05 America/Vancouver] PHP Notice:  Use of undefined constant localhost - assumed 'localhost' in /home/bceln/public_html/php/cancelswamped.php on line 14
+[06-Nov-2016 15:47:15 America/Vancouver] PHP Notice:  Use of undefined constant localhost - assumed 'localhost' in /home/bceln/public_html/php/cancelswamped.php on line 14
+[09-Nov-2016 09:08:11 America/Vancouver] PHP Notice:  Undefined index: staffemail in /home/bceln/public_html/php/swamped.php on line 8
+[23-Nov-2016 07:13:32 America/Vancouver] PHP Notice:  Undefined index: staffemail in /home/bceln/public_html/php/cancelswamped.php on line 6
+[23-Nov-2016 07:16:06 America/Vancouver] PHP Notice:  Undefined index: staffemail in /home/bceln/public_html/php/swamped.php on line 8
